@@ -7,7 +7,7 @@ const projects = [
   {
     id: uniqid(),
     image: "/assets/projects/x.png",
-    link: "https://project-x-tau-two.vercel.app/",
+    link: "https://twitter-project-x.vercel.app/",
     technologies: [
       "/assets/technologies/react.png",
       "/assets/technologies/next.png",
